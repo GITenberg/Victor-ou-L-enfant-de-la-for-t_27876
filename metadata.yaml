@@ -1,0 +1,34 @@
+_repo: Victor-ou-L-enfant-de-la-for-t_27876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ducray-Duminil, M. (François Guillaume)
+    aliases:
+    - Ducray Dumenil, Francois-Guillaume
+    - Ducray-Duminil, M. (Francois Guillaume)
+    - Ducray-Duminil, François Guillaume
+    - Ducray Duménil, François-Guillaume
+    birthdate: 1761
+    deathdate: 1819
+    gutenberg_agent_id: '32985'
+    url: http://www.gutenberg.org/2009/agents/32985
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27876'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foundlings -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PQ'
+- !lcsh 'Children''s stories, French'
+title: Victor, ou L'enfant de la forêt
+url: http://www.gutenberg.org/ebooks/27876
