@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '32985'
     url: http://www.gutenberg.org/2009/agents/32985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27876#Victor-ou-L-enfant-de-la-for-t
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-01-23'
 gutenberg_type: Text
